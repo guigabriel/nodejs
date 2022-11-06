@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "clube":"Palmeiras",
+    "estado":"SP"
+  },
+  {
+    "id":2,
+    "clube":"Flamengo",
+    "estado":"RJ"
+  },
+  {
+    "id":0,
+    "team":"VOCEM/ADPM",
+    "state":"SP"
+  }
+]
